@@ -1,0 +1,1 @@
+{"name":"Local: tcs_exam","url":"d:\\VS\\ame\\code chef\\January Long 2022 -2\\tcs_exam.cpp","tests":[{"id":1642246186797,"input":"4\n10 20 30\n30 20 10\n5 23 87\n5 23 87\n0 15 100\n100 5 5\n50 50 50\n50 49 51","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS\\ame\\code chef\\January Long 2022 -2\\tcs_exam.cpp","group":"local","local":true}

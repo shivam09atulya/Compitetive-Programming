@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"d:\\VS\\hackerrank\\basic certificate\\2.cpp","tests":[{"id":1631123150933,"input":"3\n5\n10\n10\n1\n3\n1 2 5","output":"15"},{"id":1631123209179,"input":"2\n-5\n0\n2\n3\n2\n2\n20\n1\n2\n10","output":"20\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS\\hackerrank\\basic certificate\\2.cpp","group":"local","local":true}
